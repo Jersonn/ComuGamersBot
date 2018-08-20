@@ -1,0 +1,13 @@
+{
+   "name": "ComuGambersBot",
+   "de﻿scription": "Amo ComuGamers",
+   "version": "0.0.1",
+   "main": "bot.js",
+   "scripts": {
+     "start": "node bot.js"
+   },
+   "dependencies": {﻿
+     "discord.js": "11.0.0",
+     "reque﻿st": "2.8﻿﻿1.8",
+   }﻿
+}﻿
